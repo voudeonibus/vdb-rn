@@ -40,3 +40,8 @@ android/app/libs
 android/keystores/debug.keystore
 
 *.DS_Store
+
+fastlane/report.xml
+fastlane/screenshots
+
+RNVDB.app.dSYM.zip
