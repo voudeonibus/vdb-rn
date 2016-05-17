@@ -1,4 +1,4 @@
-## Como contribuir para o Vou de ônibus React Native (iOS)
+## Como contribuir para o Vou de ônibus React Native (iOS).
 
 > [English version](CONTRIBUTING.md)
 
