@@ -45,3 +45,5 @@ fastlane/report.xml
 fastlane/screenshots
 
 RNVDB.app.dSYM.zip
+
+line-data.js
